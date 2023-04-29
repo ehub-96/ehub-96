@@ -19,8 +19,7 @@ https://ehub-dataprof.netlify.app/
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ehub-96&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-library(tweetrmd)
-tweet_embed("(https://twitter.com/ehub96/status/1652429907107127303)")
+
 
 ## 🐦 Latest Tweet
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m very excited to share that I have completed the <a href="https://twitter.com/hashtag/DataEngineeringZoomcamp?src=hash&amp;ref_src=twsrc%5Etfw">#DataEngineeringZoomcamp</a> from <a href="https://twitter.com/DataTalksClub?ref_src=twsrc%5Etfw">@DataTalksClub</a>!<br>Super cool and in-depth program, as someone new to the field, it gave me quite the insights about the craft.<br>Thanks to Alexey Grigorev and all the instructors<a href="https://t.co/g0Agu5tfJK">https://t.co/g0Agu5tfJK</a> <a href="https://t.co/hLul8Flxtu">pic.twitter.com/hLul8Flxtu</a></p>&mdash; Erik Huß (@ehub96) <a href="https://twitter.com/ehub96/status/1652429907107127303?ref_src=twsrc%5Etfw">April 29, 2023</a></blockquote> 
