@@ -1,5 +1,5 @@
-# 💫 About Me:
-💬Hello World!! I'm Erik, junior Data Professional, with a solid marketing background.<br>As logistics & SCM turned into marketing (Business Management and Marketing) from the Córdoba National University. I'm freelancing for a variety of local small businesses.<br>Now, I'm working towards a full-time career in the Data field.💬
+# 🍣 About Me:
+📯 Hello World!! I'm Erik, junior Data Professional, with a solid marketing background.<br>As logistics & SCM turned into marketing (Business Management and Marketing) from the Córdoba National University. I'm freelancing for a variety of local small businesses.<br>Now, I'm working towards a full-time career in the Data field.💬
 
 
 ## 🌐 Socials:
