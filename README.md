@@ -8,6 +8,8 @@
 ## ♨️ Portfolio:
 <a href="https://ehub-dataprof.netlify.app/"><img src="https://ehub-dataprof.netlify.app/assets/ehub.2de25107.png" alt="EHub Data Professional" width="200" height="50"></a>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4a91e583-1afd-4c5e-9296-c31715040f6c/deploy-status)](https://app.netlify.com/sites/ehub96-cvtesting/deploys)
+
 
 
 
