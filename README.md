@@ -1,6 +1,6 @@
 # 🍣 About Me:
-📯 Hello World!! I'm Erik, junior Data Professional, with a solid marketing background.<br>As logistics & SCM turned into marketing (Business Management and Marketing) from the Córdoba National University. I'm freelancing for a variety of local small businesses.<br>Now, I'm working towards a full-time career in the Data field.
-
+📯 Hello World!! I'm Erik, a highly motivated professional in southern Sweden!.
+With a background in Business Management & Marketing and Data Analysis, I've had the opportunity to work closely with small businesses and family-owned shops and stores around the United States and Argentina, supporting their digital transformation. Through data analysis and logistics optimization, I've helped these businesses achieve efficiency, reduce costs, improve their bottom line and greater goals, I've also been able to develop effective campaigns that drive business growth and customer engagement. Creating the environment for data-driven decision-making and implementing effective solutions is always the objective. My expertise includes Big Data Analytics, Data Pipelines, Backend development, Data Governance, and end-to-end pipeline development. I'm comfortable with Database Management and am dedicated to providing practical solutions that optimize data processes and systems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ehub/) 
